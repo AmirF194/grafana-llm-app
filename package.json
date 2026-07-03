@@ -44,7 +44,7 @@
     "turbo": "^2.9.16",
     "typescript": "5.9.3"
   },
-  "packageManager": "npm@11.6.2",
+  "packageManager": "npm@11.18.0",
   "engines": {
     "node": ">=22"
   },
@@ -52,18 +52,18 @@
     "rxjs": "7.8.2",
     "react": "18.3.1",
     "react-dom": "18.3.1",
-    "@remix-run/router": "1.23.2",
-    "react-router-dom-v5-compat": "6.30.3",
+    "@remix-run/router": "1.23.3",
+    "react-router-dom-v5-compat": "6.30.4",
     "@isaacs/brace-expansion": "5.0.1",
     "diff": "9.0.0",
     "lodash": "4.18.1",
     "dompurify": "3.4.1",
-    "immutable": "5.1.5",
+    "immutable": "5.1.9",
     "protobufjs": "8.2.0",
     "protocol-buffers-schema": "3.6.1",
     "sass": {
-      "immutable": "4.3.8"
+      "immutable": "4.3.9"
     },
-    "uuid": "14.0.0"
+    "uuid": "14.0.1"
   }
 }
